@@ -1,61 +1,64 @@
-<h1 data-importer="text" align="center">Seja bem vindo!</h1>
+<h1 align="center">Oi 👋 Seja bem-vindo(a)!</h1>
 
-###
+<p align="center">
+  Desenvolvedora Web Freelancer | Formada em ADS | Estudante de Ciência da Computação
+</p>
 
-<p data-importer="text" align="left">Desenvolvedora Web Freelancer | Formada em ADS | Estudante de Ciência da Computação</p>
+---
 
-###
+<h2 align="left">Sobre mim</h2>
 
-<h2 data-importer="text" align="left">Sobre mim</h2>
+<p align="left">
+Meu nome é Maria Eduarda Barzon. Atualmente atuo com desenvolvimento Front-End, criando interfaces modernas, responsivas e focadas na experiência do usuário. Estou aprimorando meus conhecimentos em Back-End e Banco de Dados com Node.js e MySQL, com o objetivo de me tornar uma desenvolvedora Full Stack.
+</p>
 
-###
+---
 
-<p data-importer="text" align="left">Atualmente atuo no desenvolvimento Front-End, criando interfaces modernas e responsivas. Estou expandindo meus conhecimentos em Back-End e Banco de Dados para me tornar uma desenvolvedora Full Stack.</p>
+<h2 align="left">Tecnologias & Ferramentas</h2>
 
-###
-
-<h2 data-importer="text" align="left">Stack atual de desenvolvimento</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudabarzon/dudabarzon/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dudabarzon/dudabarzon/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dudabarzon/dudabarzon/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<h2 align="left">Atualmente estudando</h2>
 
-###
+<ul>
+  <li>Back-End com Node.js</li>
+  <li>Banco de Dados com MySQL</li>
+  <li>Desenvolvimento Full Stack</li>
+</ul>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/dudabarzon/dudabarzon/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/dudabarzon/dudabarzon/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+---
+
+<h2 align="left">Estatísticas do GitHub</h2>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dudabarzon&show_icons=true&theme=dracula&hide_border=false" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudabarzon&layout=compact&theme=dracula&hide_border=false" />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
+<h2 align="left">Contato</h2>
+
+<div align="left">
   <a href="https://www.linkedin.com/in/mariabarzon/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:barzonduda@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
 
-###
+  <a href="mailto:barzonduda@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
