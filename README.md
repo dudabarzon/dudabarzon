@@ -2,11 +2,11 @@
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Maria Eduarda sou estudante de Ciência da Computação</p>
+<p data-importer="text" align="left">Meu nome é Maria Eduarda Barzon, sou Desenvolvedora Web Freelancer, formada em Análise e Desenvolvimento de Sistemas e estudante de Ciência da Computação.</p>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">Sobre mim</h2>
 
 ###
 
@@ -20,8 +20,6 @@
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
