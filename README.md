@@ -42,6 +42,16 @@ Meu nome é Maria Eduarda Barzon. Atualmente atuo com desenvolvimento Front-End,
 
 ---
 
+<h2 align="left">Contribuições</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudabarzon/dudabarzon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dudabarzon/dudabarzon/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dudabarzon/dudabarzon/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <h2 align="left">Estatísticas do GitHub</h2>
 
 <div align="center">
