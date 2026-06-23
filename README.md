@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="center">Oi 👋 Seja bem vindo!</h1>
+<h1 data-importer="text" align="center">Seja bem vindo!</h1>
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Maria Eduarda Barzon, sou Desenvolvedora Web Freelancer, formada em Análise e Desenvolvimento de Sistemas e estudante de Ciência da Computação.</p>
+<p data-importer="text" align="left">Desenvolvedora Web Freelancer | Formada em ADS | Estudante de Ciência da Computação</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Atualmente trabalho com Front-End, desenvolvendo interfaces modernas e responsivas, enquanto aprimoro meus conhecimentos em Back-End e Banco de Dados para me tornar uma desenvolvedora Full Stack.</p>
+<p data-importer="text" align="left">Atualmente atuo no desenvolvimento Front-End, criando interfaces modernas e responsivas. Estou expandindo meus conhecimentos em Back-End e Banco de Dados para me tornar uma desenvolvedora Full Stack.</p>
 
 ###
 
