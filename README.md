@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Desenvolvedora Web Freelancer, formada em ADS e estudante de Ciência da Computação. Atualmente trabalho com Front-End, desenvolvendo interfaces modernas e responsivas, enquanto aprimoro meus conhecimentos em Back-End e Banco de Dados para me tornar uma desenvolvedora Full Stack.</p>
+<p data-importer="text" align="left">Atualmente trabalho com Front-End, desenvolvendo interfaces modernas e responsivas, enquanto aprimoro meus conhecimentos em Back-End e Banco de Dados para me tornar uma desenvolvedora Full Stack.</p>
 
 ###
 
