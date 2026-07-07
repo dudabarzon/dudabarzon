@@ -52,12 +52,7 @@ Meu nome é Maria Eduarda Barzon. Atualmente atuo com desenvolvimento Front-End,
 
 ---
 
-<h2 align="left">Estatísticas do GitHub</h2>
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dudabarzon&show_icons=true&theme=dracula&hide_border=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudabarzon&layout=compact&theme=dracula&hide_border=false" />
-</div>
 
 ---
 
